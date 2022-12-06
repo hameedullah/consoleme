@@ -69,4 +69,4 @@ or [**SAML**](https://hawkins.gitbook.io/consoleme/configuration/authentication-
 - [myKaarma](https://mykaarma.com/)
 - [National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/)
 - Feel free to submit a PR or let us know in an [Issue](https://github.com/Netflix/consoleme/issues) if you'd like to
-  add your company to this list.
+  add your company to this list
